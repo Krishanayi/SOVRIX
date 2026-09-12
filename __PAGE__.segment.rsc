@@ -1,0 +1,27 @@
+1:"$Sreact.fragment"
+2:I[61304,[],"ClientPageRoot"]
+3:I[77132,["457","static/chunks/457-182d3f437c321fff.js","170","static/chunks/170-5e84993663dc4559.js","770","static/chunks/770-46d27c71978db212.js","974","static/chunks/app/page-67d478a0cef39569.js"],"default"]
+6:I[90484,[],"OutletBoundary"]
+7:"$Sreact.suspense"
+b:I[90484,[],"ViewportBoundary"]
+c:I[90484,[],"MetadataBoundary"]
+d:I[86869,[],"IconMark"]
+f:I[98221,["457","static/chunks/457-182d3f437c321fff.js","770","static/chunks/770-46d27c71978db212.js","177","static/chunks/app/layout-7ef875226c37bddf.js"],"ToastProvider"]
+10:I[19782,["457","static/chunks/457-182d3f437c321fff.js","770","static/chunks/770-46d27c71978db212.js","177","static/chunks/app/layout-7ef875226c37bddf.js"],"AuthProvider"]
+11:I[23770,["457","static/chunks/457-182d3f437c321fff.js","770","static/chunks/770-46d27c71978db212.js","177","static/chunks/app/layout-7ef875226c37bddf.js"],"WorkbenchProvider"]
+12:I[53703,["457","static/chunks/457-182d3f437c321fff.js","770","static/chunks/770-46d27c71978db212.js","177","static/chunks/app/layout-7ef875226c37bddf.js"],"CommandPalette"]
+13:I[57121,[],""]
+14:I[74581,[],""]
+:HL["/_next/static/css/ffc1d1179c8e1c06.css","style"]
+a:X
+0:{"buildId":"JuVf-1b5dOFL-2JX4LBZG","data":[{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],null,["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"isPartial":"$@9","staleTime":"$a","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$Lb",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"SOVEREIGN AI WORKBENCH | Private Intelligence. Industrial Action. Complete Control."}],["$","meta","1",{"name":"description","content":"Enterprise-grade sovereign on-premise AI operating environment for confidential industrial operations, permission-aware RAG, multimodal machine diagnostics, and human-in-the-loop workflows."}],["$","link","2",{"rel":"icon","href":"/favicon.ico?603d046c9a6fdfbb","type":"image/x-icon","sizes":"16x16"}],["$","$Ld","3",{}]]}]}]}],null]}],"isPartial":"$@e","staleTime":"$a","varyParams":null},{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/ffc1d1179c8e1c06.css","precedence":"next"}]],["$","html",null,{"lang":"en","className":"dark bg-[#0b0e14] text-slate-100","children":["$","body",null,{"className":"min-h-screen bg-[#0b0e14] text-slate-100 font-sans antialiased selection:bg-cyan-500/30 selection:text-cyan-200","children":["$","$Lf",null,{"children":["$","$L10",null,{"children":["$","$L11",null,{"children":[["$","$L12",null,{}],["$","$L13",null,{"parallelRouterKey":"children","template":["$","$L14",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]]}]}]}]}]}]]}],"isPartial":"$@15","staleTime":"$a","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@16","rootVaryParams":null,"needsRuntimeRequest":"$@17"}
+4:{}
+5:"$0:data:0:rsc:props:children:0:props:serverProvidedParams:params"
+8:null
+a:300
+17:true
+a:C
+16:0
+e:"$undefined"
+15:"$undefined"
+9:"$undefined"
